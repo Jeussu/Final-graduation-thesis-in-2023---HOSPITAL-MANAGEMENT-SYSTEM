@@ -1,5 +1,6 @@
 <h1>Final graduation thesis in 2023 - HOSPITAL MANAGEMENT SYSTEM</h1>
-![image](https://github.com/Jeussu/Finalgraduationthesisin2023/assets/94780400/72fd80c4-db89-4606-b7bf-1e9af62cfb79)
+![image](https://github.com/Jeussu/Finalgraduationthesisin2023/assets/94780400/54ab66d6-3ecd-476c-a234-faaec03ad32e)
+
 ACKNOWLEDGEMENTS
 I am grateful to Dr. Do Hong Quan for being an excellent supervisor during the development of our work. His thoughtful advice and mentorship are priceless, and they have benefited me in broadening my professional knowledge.
 TABLE OF CONTENTS
