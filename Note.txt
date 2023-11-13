@@ -1,0 +1,9 @@
+* Thêm role nurse theo use case và được quản lý bởi admin
+* edit lại phân quyền
+- khi đăng nhập với account admin thì có nút doctor và nurse, admin
+- khi đăng nhập với account nurse thì có function patient
+- khi đăng nhập với account doctor thì chỉ có diagnosis
+- nurse thêm bệnh nhân và chỉ định bệnh nhân cho bác sĩ khám
+- bác sĩ chỉ quản lý bệnh nhân và bệnh án đã được đăng ký bởi nurse.
+- thêm thời gian khám cho từng bác sĩ và bệnh nhân(không bị trùng lập ca khám)
+* ở phần module bác sĩ chỉnh lại status cá nhân cho hợp logic

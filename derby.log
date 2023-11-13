@@ -1,0 +1,15 @@
+Sat May 14 16:18:48 ICT 2022 : Apache Derby Network Server - 10.15.1.3 - (1853019) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Sat May 14 16:18:48 ICT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.1.3 - (1853019): instance a816c00e-0180-c1dd-0019-00003d82cc2a 
+on database directory D:\copy 3-4-2019\Desktop\Project(COMP1682)\Final ASM\Final Asm\New folder\4\HospitalJavaDb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@c387f44 
+Loaded from file:/D:/copy%203-4-2019/Desktop/Project(COMP1682)/Final%20ASM/Final%20Asm/New%20folder/4/db-derby-10.15.1.3-lib/lib/derby.jar
+java.vendor=Oracle Corporation
+user.dir=D:\copy 3-4-2019\Desktop\Project(COMP1682)\Final ASM\Final Asm\New folder\4\db-derby-10.15.1.3-lib
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=D:\copy 3-4-2019\Desktop\Project(COMP1682)\Final ASM\Final Asm\New folder\4
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat May 14 16:54:38 ICT 2022: Shutting down Derby engine
