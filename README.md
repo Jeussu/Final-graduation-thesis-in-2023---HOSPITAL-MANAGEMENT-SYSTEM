@@ -1,5 +1,5 @@
 <h1>Final graduation thesis in 2023 - HOSPITAL MANAGEMENT SYSTEM</h1>
-[0011811112-Project.pdf](https://github.com/Jeussu/Finalgraduationthesisin2023/files/13335925/0011811112-Project.pdf)
+
 
 ![image](https://github.com/Jeussu/Finalgraduationthesisin2023/assets/94780400/914911f3-b2e5-4138-b632-2c57a8993ef1)
 
